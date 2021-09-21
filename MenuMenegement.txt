@@ -1,0 +1,19 @@
+			_________________________________________________________________________
+			|	 								|
+			|	 								|
+			|	 								|
+			|	 								|
+			|	 		   MENU MANIPULATION				|
+			|	 								|
+			|	 								|
+			|	 								|
+			|	 								|
+			|	 								|
+			|	 Add World and Translete					|
+			|	 Delete World							|
+			|	 Delete Translete						|
+			|	 Change World							|
+			|	 Change Translete						|
+			|	 Show Worlds							|
+			|	 Back				Dictionary [                  ]	|
+			|_______________________________________________________________________|

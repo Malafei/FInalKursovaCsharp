@@ -1,0 +1,19 @@
+			_________________________________________________________________________
+			|	 								|
+			|	 								|
+			|	 								|
+			|	 								|
+			|	 			   MENU					|
+			|	 								|
+			|	 								|
+			|	 								|
+			|	 								|
+			|	 								|
+			|	 Replace the Dictionary						|
+			|	 Add Dicthionary						|
+			|	 Choose a Dictionary						|
+			|	 Delete a Dictionary						|
+			|	 Dictionary Management						|
+			|	 								|
+			|	 Exit				Dictionary [                  ]	|
+			|_______________________________________________________________________|
